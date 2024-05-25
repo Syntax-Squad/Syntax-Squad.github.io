@@ -1,0 +1,4 @@
+Agent : *
+Disallow :
+
+sitemap : https://syntax-squad.github.io/sitemap.xml/
