@@ -1,0 +1,40 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Handle line endings automatically for files detected as text
+*.txt text
+*.html text
+*.css text
+*.js text
+*.json text
+*.xml text
+*.md text
+*.markdown text
+
+# Treat all files detected as binary
+*.png binary
+*.jpg binary
+*.gif binary
+*.bmp binary
+*.ico binary
+*.tif binary
+*.tiff binary
+*.svg binary
+*.pdf binary
+*.doc binary
+*.docx binary
+*.xls binary
+*.xlsx binary
+*.ppt binary
+*.pptx binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.mp4 binary
+*.avi binary
+*.mov binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.7z binary
+*.rar binary
